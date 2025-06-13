@@ -7,17 +7,17 @@
 ###
 
 ## About Me
-🔭 I'm working on: MazOS (my own operating system I am building from scratch)
+🔭 I'm working on: **MazOS** (my own operating system I am building from scratch)
 
-🌱 I'm currently learning how to integrate networking capabilities into my operating system, focusing on protocols, socket programming and packet handling
+🌱 I'm currently learning: **how to integrate networking capabilities into my operating system**, focusing on protocols, socket programming and packet handling
 
-💻 Fun Fact: My introduction to programming was through Pascal 
+💻 Fun Fact: **My introduction to programming was through Pascal** 
 
 ###
 
 ## Project Showcase
 ### [⚡ Accelerometer Sensor](https://github.com/angh-el/microcontroller-accelerometer-graphing-app)
-This embedded system project uses the built-in accelerometer of the micro:bit micro-contreller to measure movement and plot displacement on an external OLED display. As the micro:bit detects any changes in horizontal acceleration, the displacement is calculated and visualised in real time.
+This embedded system project uses the built-in accelerometer of the micro:bit micro-controller to measure movement and plot displacement on an external OLED display. As the micro:bit detects any changes in horizontal acceleration, the displacement is calculated and visualised in real time.
  
 ### [📸 PicStagram](https://github.com/angh-el/PicStagram)
 PicStagram is a full-stack Instagram clone, built using the MERN stack. The app allows users to upload, like and comment on posts. Other features include user feeds, user profile pages and notifications pages.

@@ -36,7 +36,7 @@ A graphical visualisation tool for a handful of sorting algorithms. The applicat
 
 ### [🎲 Sudoku Solver](https://github.com/angh-el/SortingAlgorithmVisualisation)
 A brute-force Sudoku solver that makes uses of back-tracking to find the solution to any solvable board.
-
+ 
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/marius-anghel-37451029a/" target="_blank">

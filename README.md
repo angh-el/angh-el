@@ -16,6 +16,9 @@
 ###
 
 ## Project Showcase
+### [🦾 MazOS - my own custom built from scratch operating system](https://github.com/angh-el/MazOS)
+A 32-bit operating system for x86 processors. The os has its own custom kernel, efficient memory manager, and custom  process manager that supports adaptive scheduling. A range of drivers, including: PS/2 Mouse and Keyboard driver, ATA Disk driver, Sound Blaster 16 audio driver, VGA driver (and support for opening and rendering .png files), and fully functioning FAT32 filesystem and support for wide range of file operations  (open, read, write, close, create, delete, copy and paste). Some basic POSIX compliant system calls (write, read, sbrk, exit, execve, fork, open and kill). Intuitive command line interface and Unix-like commands (cd, ls, pwd, cat, rm, mk and touch) plus other custom commands for better usability, and some simple user-space applications showcasing the range of features os MazOS.
+
 ### [📈 Trading Strategy Backtest Engine](https://github.com/angh-el/TradingStrategyBacktester)
 A full-stack app for simulating algorithmic trading strategies using 1-minute OHLCV data. Features a hihgly optimised C++ backtesting engine, a range of technical indicators and interactive React interface that lets users select ticker and time ranges, and customise sample trading strategies. Additionally users are allowed to create their own trading strategies and test their successfullnes.
 

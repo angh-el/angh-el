@@ -16,6 +16,9 @@
 ###
 
 ## Project Showcase
+### [📈 Trading Strategy Backtest Engine](https://github.com/angh-el/TradingStrategyBacktester)
+A full-stack app for simulating algorithmic trading strategies using 1-minute OHLCV data. Features a hihgly optimised C++ backtesting engine, a range of technical indicators and interactive React interface that lets users select ticker and time ranges, and customise sample trading strategies. Additionally users are allowed to create their own trading strategies and test their successfullnes.
+
 ### [⚡ Accelerometer Sensor](https://github.com/angh-el/microcontroller-accelerometer-graphing-app)
 This embedded system project uses the built-in accelerometer of the micro:bit micro-controller to measure movement and plot displacement on an external OLED display. As the micro:bit detects any changes in horizontal acceleration, the displacement is calculated and visualised in real time.
  

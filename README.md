@@ -25,6 +25,9 @@ A full-stack app for simulating algorithmic trading strategies using 1-minute OH
 
 ### [⚡ Accelerometer Sensor](https://github.com/angh-el/microcontroller-accelerometer-graphing-app)
 This embedded system project uses the built-in accelerometer of the micro:bit micro-controller to measure movement and plot displacement on an external OLED display. As the micro:bit detects any changes in horizontal acceleration, the displacement is calculated and visualised in real time.
+
+### [📊 Monte Carlo Portfolio Optimiser](https://github.com/angh-el/monte-carlo-portfolio-optimiser)
+A python toolkit for portfolio optimisation and risk analysis. It combines Black-Litterman portfolio optimisation with Monte Carlo simulations to derrive optimal portfolio allocations and visualise the results.
  
 ### [📸 PicStagram](https://github.com/angh-el/PicStagram)
 PicStagram is a full-stack Instagram clone, built using the MERN stack. The app allows users to upload, like and comment on posts. Other features include user feeds, user profile pages and notifications pages.

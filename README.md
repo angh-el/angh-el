@@ -47,3 +47,7 @@ A proof of concept application that aims to use YouTube as an unconventional for
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angh-el&label=Profile%20views&color=0e75b6&style=flat" alt="tinabyte" /> </p>

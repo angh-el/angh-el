@@ -35,11 +35,10 @@ PicStagram is a full-stack Instagram clone, built using the MERN stack. The app 
 ### [📮 YouTube File Storage](https://github.com/angh-el/YouTubeFileStorage)
 A proof of concept application that aims to use YouTube as an unconventional form of cloud storage. Conclusions of this project highlight the inefficiencies of this approach due to the video files being at least 3 times larger than the original file and the amount of time it takes to convert a file to video format, and vice versa. Additionally, this does not fully adhere to Google's terms of service. 
 
---- 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angh-el&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 
 ## Connect With Me
